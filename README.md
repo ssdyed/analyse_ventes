@@ -8,8 +8,8 @@ Ce projet est un "self exercice". Il consiste à explorer un jeu de données sur
 - Généraliser une visualition simple pour réprésenter la catégorie la plus rentable
 
 ## Contenu du projet
-- 'ventes_boutique.xlsx' : Fichier contenant les données brutes
-- "ventes_practice.py" : Script python pour analyser les données
+- ventes_boutique.xlsx : Fichier contenant les données brutes
+- ventes_practice.py : Script python pour analyser les données
 - README.md : Fichier qui documente le projet
 
 ## Outils utilsées
