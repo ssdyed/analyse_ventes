@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/ventes_practice.iml" filepath="$PROJECT_DIR$/.idea/ventes_practice.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/analyse_ventes.iml" filepath="$PROJECT_DIR$/.idea/analyse_ventes.iml" />
+>>>>>>> 0d1c4f0 (Mise à jour des fichiers)
     </modules>
   </component>
 </project>
