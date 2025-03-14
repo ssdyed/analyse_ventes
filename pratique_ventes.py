@@ -1,39 +1,12 @@
-<<<<<<< HEAD
-=======
-# 1.Exploration des données
-# Vérifier les valeurs manquantes et les incohérences
-# Résumer les statistiques générales du dataset
 
-# 2.Analyse des ventes
-# Chiffre d’affaires total
-# Produit le plus vendu
-# Catégorie la plus rentable
-
-# 3.Analyse temporelle
-# Tendances des ventes sur le temps
-# Jours les plus rentables
-
-# 4.Analyse clients
-# Pourcentage de clients fidèles
-# Comparer les dépenses des clients fidèles vs nouveaux
-
-# 5.Analyse géographique
-# Ville avec le plus de revenus
-# Différences régionales
-
-
->>>>>>> 0d1c4f0 (Mise à jour des fichiers)
 # 1. Exploration des données
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
 # commençons par charger les données
-<<<<<<< HEAD
-fichier = pd.read_excel("/Users/sdye/Desktop/practice/ventes_boutique.xlsx")
-=======
+
 fichier = pd.read_excel("/Users/sdye/Desktop/practice/projet1/analyse_ventes/ventes_boutique.xlsx")
->>>>>>> 0d1c4f0 (Mise à jour des fichiers)
 
 # vérifications des infos des données (observer la matrice m x n)
 print(fichier.info)
